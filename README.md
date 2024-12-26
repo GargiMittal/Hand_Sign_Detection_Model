@@ -20,7 +20,7 @@ This project is designed to detect hand signs using a webcam and convert them to
 
 ## Prerequisites
 
-- Python 3.7 or above
+- Python 3.8, 3.9, or 3.10 (TensorFlow 2.13+ supports these versions)
 - OpenCV
 - TensorFlow
 - pyttsx3
