@@ -1,5 +1,6 @@
 
 # Hand Sign Detection System
+![demo image](demo.png)
 
 This project is designed to detect hand signs using a webcam and convert them to text and audio. It includes the following features:
 1. **Hand Sign Detection**: Using OpenCV and a deep learning model to detect hand signs in real-time.
